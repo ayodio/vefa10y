@@ -12,9 +12,34 @@ https://www.colourlovers.com/palette/4714454/AI
 
 /* =Menu
 -------------------------------------------------------------- */
+body {
+    background-color: #a5cc52;
+}
+
+@media screen and (max-width: 754px) {
+    #branding {
+        background-image: url("images/logo_fertig.png");
+        background-size: 122px;
+        background-repeat: no-repeat;
+        background-position-y: 8px;
+        background-position-x: 10px;
+    }
+
+    #site-title {
+        margin-left: 63px;
+    }
+}
+
+#site-generator a.inprint {
+    display: none;
+}
 
 a {
     color: #507b00;
+}
+
+a:hover {
+    color: #466E13;
 }
 
 #access {
