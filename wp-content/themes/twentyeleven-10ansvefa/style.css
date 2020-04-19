@@ -30,7 +30,7 @@ body {
     }
 }
 
-#site-generator a.inprint {
+#site-generator a.imprint, #site-generator span {
     display: none;
 }
 
