@@ -13,7 +13,7 @@ https://www.colourlovers.com/palette/4714454/AI
 /* =Menu
 -------------------------------------------------------------- */
 body {
-    background-color: #c4ddaf;
+    background-color: #d4eac3;
 }
 
 @media screen and (min-width: 754px) {
@@ -44,10 +44,10 @@ a:hover {
 
 #access {
     background: #507b00; /* Show a solid color for older browsers */
-    background: -moz-linear-gradient(#507b00, #6d9744);
-    background: -o-linear-gradient(#507b00, #6d9744);
-    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#507b00), to(#6d9744)); /* older webkit syntax */
-    background: -webkit-linear-gradient(#507b00, #6d9744);
+    background: -moz-linear-gradient(#507b00, #466E13);
+    background: -o-linear-gradient(#507b00, #466E13);
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#507b00), to(#466E13)); /* older webkit syntax */
+    background: -webkit-linear-gradient(#507b00, #466E13);
     -webkit-box-shadow: rgba(0, 0, 0, 0.4) 0 1px 2px;
     -moz-box-shadow: rgba(0, 0, 0, 0.4) 0 1px 2px;
     box-shadow: rgba(0, 0, 0, 0.4) 0 1px 2px;
