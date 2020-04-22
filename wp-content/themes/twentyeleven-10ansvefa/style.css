@@ -12,8 +12,18 @@ https://www.colourlovers.com/palette/4714454/AI
 
 /* =Menu
 -------------------------------------------------------------- */
-body {
+html {
     background-color: #d4eac3;
+    background-image: linear-gradient(#fff3 0%, #0006), url("images/fond_tissu.png");
+}
+
+body {
+    background: transparent;
+    background-image: url("images/logo_fertig.png");
+    background-size: 40%;
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-position-x: -159px;
 }
 
 #branding {
