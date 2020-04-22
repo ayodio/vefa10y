@@ -16,19 +16,23 @@ body {
     background-color: #d4eac3;
 }
 
-@media screen and (min-width: 754px) {
-    #branding {
-        background-image: url("images/logo_fertig.png");
-        background-size: 122px;
-        background-repeat: no-repeat;
-        background-position-y: 8px;
-        background-position-x: 10px;
-    }
+#branding {
+    background-image: url("images/logo_fertig.png");
+    background-size: 122px;
+    background-repeat: no-repeat;
+    background-position-y: 8px;
+    background-position-x: 10px;
+}
+#site-title {
+    margin-left: 93px;
+}
 
+@media screen and (min-width: 754px) {
     #site-title {
         margin-left: 63px;
     }
 }
+
 
 #site-generator a.imprint, #site-generator span {
     display: none;
