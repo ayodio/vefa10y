@@ -26,6 +26,10 @@ body {
     background-position-x: -159px;
 }
 
+#page {
+    box-shadow: 3px 5px 16px #666;
+}
+
 #branding {
     background-image: url("images/logo_fertig.png");
     background-size: 122px;
