@@ -14,7 +14,7 @@ https://www.colourlovers.com/palette/4714454/AI
 -------------------------------------------------------------- */
 html {
     background-color: #d4eac3;
-    background-image: linear-gradient(#fff3 0%, #0006), url("images/fond_tissu.png");
+    background-image: linear-gradient(#fff3, #0006 1000px), url("images/fond_tissu.png");
 }
 
 body {
