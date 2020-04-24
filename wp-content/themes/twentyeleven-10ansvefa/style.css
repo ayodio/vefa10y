@@ -52,11 +52,15 @@ body {
 }
 
 a {
-    color: #019de0;
+    color: #019de0; /* bleu vefa */
 }
 
 a:hover {
     color: #0182b6;
+}
+
+#branding #searchform {
+    border: solid 3px #e44295;
 }
 
 #access {
