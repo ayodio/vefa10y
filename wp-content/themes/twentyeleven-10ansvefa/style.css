@@ -63,6 +63,10 @@ a:hover {
     border: solid 3px #e44295;
 }
 
+#branding #searchform input {
+    border-radius: 0;
+}
+
 #access {
     background: #507b00; /* Show a solid color for older browsers */
     background: -moz-linear-gradient(#507b00, #466E13);
