@@ -13,7 +13,10 @@ https://www.colourlovers.com/palette/4714454/AI
 /* =Menu
 -------------------------------------------------------------- */
 html {
-    background-color: #f39500;
+    background-color: hsl(77.8,67.5%,45.9%);
+    background-image: linear-gradient(transparent 500px, hsl(77,60%,31%) 1246px, black 6000px), url("images/fond-herbe.jpg");
+    background-repeat: repeat-x;
+    background-position: center top;
 }
 
 body {
@@ -68,11 +71,11 @@ a:hover {
 }
 
 #access {
-    background: #6e9745; /* Show a solid color for older browsers */
-    background: -moz-linear-gradient(#6e9745, #466E13);
-    background: -o-linear-gradient(#6e9745, #466E13);
-    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#6e9745), to(#466E13)); /* older webkit syntax */
-    background: -webkit-linear-gradient(#6e9745, #466E13);
+    background: #f39500; /* Show a solid color for older browsers */
+    background: -moz-linear-gradient(#f39500, #e25c00);
+    background: -o-linear-gradient(#f39500, #e25c00);
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#f39500), to(#e25c00)); /* older webkit syntax */
+    background: -webkit-linear-gradient(#f39500, #e25c00);
     -webkit-box-shadow: rgba(0, 0, 0, 0.4) 0 1px 2px;
     -moz-box-shadow: rgba(0, 0, 0, 0.4) 0 1px 2px;
     box-shadow: rgba(0, 0, 0, 0.4) 0 1px 2px;
