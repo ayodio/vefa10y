@@ -13,10 +13,7 @@ https://www.colourlovers.com/palette/4714454/AI
 /* =Menu
 -------------------------------------------------------------- */
 html {
-    background-color: hsl(77.8,67.5%,45.9%);
-    background-image: linear-gradient(transparent 500px, hsl(77,60%,31%) 1246px, black 6000px), url("images/fond-herbe.jpg");
-    background-repeat: repeat-x;
-    background-position: center top;
+    background-color: #9bcb6a;
 }
 
 body {
@@ -30,6 +27,11 @@ body {
 
 #page {
     box-shadow: 3px 5px 16px #666;
+    background-color: #f5ffcf;
+}
+
+#site-generator {
+    background-color: #f5ffcf;
 }
 
 #branding {
